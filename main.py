@@ -287,4 +287,3 @@ win.bgcolor('#ecb3ff')
 txt()
 
 win.mainloop()
-# End of my.py 
